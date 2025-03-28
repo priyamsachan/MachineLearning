@@ -48,8 +48,8 @@ The dataset contains various chemical properties of red wine samples along with 
 ## 🚀 How to Run  
 1️⃣ Clone this repository:  
 ```bash
-git clone https://github.com/your-username/Wine-Quality-Prediction.git
-cd Wine-Quality-Prediction
+git clone https://github.com/priyamsachan/MachineLearning/Wine_Quality_Prediction.git 
+cd Wine_Quality_Prediction
 ```
 2️⃣ Install dependencies:  
 ```bash
