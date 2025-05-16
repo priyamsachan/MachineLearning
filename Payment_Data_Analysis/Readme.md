@@ -80,6 +80,3 @@ These findings can be used to **optimize payment systems**, improve **customer e
 
 This project is open-source and available under the **MIT License**.
 
----
-
-Let me know if you’d like help generating a `requirements.txt` file or adding visuals to the README!
